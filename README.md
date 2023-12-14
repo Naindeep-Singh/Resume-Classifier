@@ -26,6 +26,7 @@ Ensure you have the necessary libraries installed. You can install them using:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn nltk wordcloud
+```
 
 ## Dataset
 The project uses the UpdatedResumeDataSet.csv dataset, containing labeled resumes for training and evaluation.
